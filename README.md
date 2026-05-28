@@ -48,7 +48,7 @@ Os exercícios têm como objetivo praticar:
 Exemplo:
 
 ```bash
-python tabuada.py
+tabuada.py
 ```
 
 ---
